@@ -66,7 +66,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TawandaMavondo/crud](https://github.com/TawandaMavondo/crud)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|52<br/>Tools used|12/09/23 <br/>Report generated|
+|53<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -298,9 +298,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (27)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (28)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (27)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (28)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -321,6 +321,7 @@ Full tech stack [here](/techstack.md)
 |[eslint-config-airbnb-base](https://www.npmjs.com/eslint-config-airbnb-base)|v14.2.1|04/21/22|michaelyali |MIT|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.1.0|04/21/22|michaelyali |MIT|N/A|
 |[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.22.1|04/21/22|michaelyali |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.4|04/21/22|michaelyali |MIT|N/A|
 |[jest-extended](https://www.npmjs.com/jest-extended)|v2.0.0|03/30/22|michaelyali |MIT|N/A|
 |[pg](https://www.npmjs.com/pg)|v8.7.3|05/18/18|Michael Yali |MIT|N/A|
 |[pluralize](https://www.npmjs.com/pluralize)|v8.0.0|01/26/21|Michael Yali |MIT|N/A|
